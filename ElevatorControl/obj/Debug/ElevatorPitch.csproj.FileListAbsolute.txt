@@ -1,0 +1,8 @@
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\bin\Debug\ElevatorPitch.exe.config
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\bin\Debug\ElevatorPitch.exe
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\bin\Debug\ElevatorPitch.pdb
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\obj\Debug\ElevatorPitch.csprojAssemblyReference.cache
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\obj\Debug\ElevatorPitch.csproj.CoreCompileInputs.cache
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\obj\Debug\ElevatorPitch.exe
+C:\Users\umair\source\repos\ElevatorPitch\ElevatorPitch\obj\Debug\ElevatorPitch.pdb
+D:\Programs\Sources\Repos\ElevatorPitch\ElevatorPitch\obj\Debug\ElevatorPitch.csproj.CoreCompileInputs.cache
